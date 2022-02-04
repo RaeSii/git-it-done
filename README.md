@@ -1,3 +1,1 @@
-<!-- # git-it-done
-
-//Issues -->
+# git-it-done
